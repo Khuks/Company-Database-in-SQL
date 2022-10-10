@@ -24,9 +24,11 @@ The company had its suppliers that provide company X with goods and services. Ea
 
 ![company-erd](https://user-images.githubusercontent.com/67390835/194890063-7e513cae-cb92-42c6-89f7-23104ae27531.png)
 
-#### What is an Diagram ?
+## What is an Diagram ?
 
-An Entity Relationship (ER) Diagram is a type of flowchart that illustrates how “entities” such as people, objects or concepts relate to each other within a system. ER Diagrams are most often used to design or debug relational databases in the fields of software engineering, business information systems, education and research. Also known as ERDs or ER Models, they use a defined set of symbols such as rectangles, diamonds, ovals and connecting lines to depict the interconnectedness of entities, relationships and their attributes. They mirror grammatical structure, with entities as nouns and relationships as verbs.
+An Entity Relationship (ER) Diagram is a type of flowchart that illustrates how “entities” such as people, objects or concepts relate to each other within a system.
+ER Diagrams are most often used to design or debug relational databases in the fields of software engineering, business information systems, education and research.
+Also known as ERDs or ER Models, they use a defined set of symbols such as rectangles, diamonds, ovals and connecting lines to depict the interconnectedness of entities, relationships and their attributes. They mirror grammatical structure, with entities as nouns and relationships as verbs.
 
 To read further about Database relation and the Entity Relationship Diagram:
 <a href="https://www.lucidchart.com/pages/er-diagrams">Click Here</a>
