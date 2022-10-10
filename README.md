@@ -15,7 +15,7 @@ The company consists of 3 branches, each branch identified by a branch name, bra
 Clients are identified by an identity number which is unique for each customer. Each client belong to each branch. And a branch can serve many clients.
 
 ## Works With Table
-Each employee can make <b>y</y> sales from servising <b>m</b> clients.
+Each employee can make <b>y</b> sales from servising <b>m</b> clients.
 
 ## Branch Supplier
 The company had its suppliers that provide company X with goods and services. Each Supplier is identified by a name and the type of supply the company requires.
