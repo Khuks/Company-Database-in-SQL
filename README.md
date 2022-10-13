@@ -35,4 +35,7 @@ Also known as ERDs or ER Models, they use a defined set of symbols such as recta
 To read further about Database relation and the Entity Relationship Diagram:
 <a href="https://www.lucidchart.com/pages/er-diagrams">Click Here</a>
 
-
+### References
+For SQL practise and study purpose, I highly recommed :
+1. <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY&t=9532s">Mike Date Tutorial</a>
+2. <a href="https://www.mikedane.com/">Mike Date Official Website</a>
